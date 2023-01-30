@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">AndroidERestaurant</string>
+    <string name="start_menu">Entrées</string>
+    <string name="dishes_menu">Dishes</string>
+    <string name="deserts_menu">Deserts</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="chez">Chez</string>
+    <string name="droidrestaurant">DroidRestaurant</string>
+    <string name="AndroidERestaurant">AndroidERestaurant</string>
+
+    <string name="Itemcontain"></string>
+    <string name="DroidRestaurant">DroidRestaurant</string>
+    <string name="Deserts">Deserts</string>
+    <string name="Chez">Chez</string>
+    <string name="Plats">Plats</string>
+    <string name="Entrees">Entrees</string>
+    <string-array name="Plats">
+       <item>pizza</item>
+       <item>Salade</item>
+       <item>Burger</item>
+
+
+   </string-array>
+
+
 </resources>
